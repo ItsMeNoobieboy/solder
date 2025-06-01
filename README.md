@@ -16,8 +16,3 @@ This is a simple PCB I made as part of the Solder workshop at HacKnight 2025.
 
 ## Slack:
 @Yancheng
-
-    Description of your project
-    Bill of materials (What parts did you use? Have a list of those items, plus their quantities!)
-    Screenshots of the schematic, PCB, and 3D view of your board!
-    Your slack username (for verification)
